@@ -1,0 +1,63 @@
+﻿'ChatClient.exe'(Win32): 'C:\Users\sxhxx\OneDrive\바탕 화면\ChatClient\Debug\ChatClient.exe'을(를) 로드했습니다. 기호가 로드되었습니다.
+'ChatClient.exe'(Win32): 'C:\Windows\SysWOW64\ntdll.dll'을(를) 로드했습니다. PDB 파일을 찾거나 열 수 없습니다.
+'ChatClient.exe'(Win32): 'C:\Windows\SysWOW64\kernel32.dll'을(를) 로드했습니다. PDB 파일을 찾거나 열 수 없습니다.
+'ChatClient.exe'(Win32): 'C:\Windows\SysWOW64\KernelBase.dll'을(를) 로드했습니다. PDB 파일을 찾거나 열 수 없습니다.
+'ChatClient.exe'(Win32): 'C:\Windows\SysWOW64\user32.dll'을(를) 로드했습니다. PDB 파일을 찾거나 열 수 없습니다.
+'ChatClient.exe'(Win32): 'C:\Windows\SysWOW64\win32u.dll'을(를) 로드했습니다. PDB 파일을 찾거나 열 수 없습니다.
+'ChatClient.exe'(Win32): 'C:\Windows\SysWOW64\mfc120ud.dll'을(를) 로드했습니다. PDB 파일을 찾거나 열 수 없습니다.
+'ChatClient.exe'(Win32): 'C:\Windows\SysWOW64\msvcr120d.dll'을(를) 로드했습니다. PDB 파일을 찾거나 열 수 없습니다.
+'ChatClient.exe'(Win32): 'C:\Windows\SysWOW64\advapi32.dll'을(를) 로드했습니다. PDB 파일을 찾거나 열 수 없습니다.
+'ChatClient.exe'(Win32): 'C:\Windows\SysWOW64\gdi32.dll'을(를) 로드했습니다. PDB 파일을 찾거나 열 수 없습니다.
+'ChatClient.exe'(Win32): 'C:\Windows\SysWOW64\msvcrt.dll'을(를) 로드했습니다. PDB 파일을 찾거나 열 수 없습니다.
+'ChatClient.exe'(Win32): 'C:\Windows\SysWOW64\gdi32full.dll'을(를) 로드했습니다. PDB 파일을 찾거나 열 수 없습니다.
+'ChatClient.exe'(Win32): 'C:\Windows\SysWOW64\sechost.dll'을(를) 로드했습니다. PDB 파일을 찾거나 열 수 없습니다.
+'ChatClient.exe'(Win32): 'C:\Windows\SysWOW64\msvcp_win.dll'을(를) 로드했습니다. PDB 파일을 찾거나 열 수 없습니다.
+'ChatClient.exe'(Win32): 'C:\Windows\SysWOW64\rpcrt4.dll'을(를) 로드했습니다. PDB 파일을 찾거나 열 수 없습니다.
+'ChatClient.exe'(Win32): 'C:\Windows\SysWOW64\ucrtbase.dll'을(를) 로드했습니다. PDB 파일을 찾거나 열 수 없습니다.
+'ChatClient.exe'(Win32): 'C:\Windows\SysWOW64\ole32.dll'을(를) 로드했습니다. PDB 파일을 찾거나 열 수 없습니다.
+'ChatClient.exe'(Win32): 'C:\Windows\SysWOW64\combase.dll'을(를) 로드했습니다. PDB 파일을 찾거나 열 수 없습니다.
+'ChatClient.exe'(Win32): 'C:\Windows\SysWOW64\oleaut32.dll'을(를) 로드했습니다. PDB 파일을 찾거나 열 수 없습니다.
+'ChatClient.exe'(Win32): 'C:\Windows\WinSxS\x86_microsoft.windows.common-controls_6595b64144ccf1df_6.0.19041.1110_none_a8625c1886757984\comctl32.dll'을(를) 로드했습니다. PDB 파일을 찾거나 열 수 없습니다.
+'ChatClient.exe'(Win32): 'C:\Windows\SysWOW64\shlwapi.dll'을(를) 로드했습니다. PDB 파일을 찾거나 열 수 없습니다.
+'ChatClient.exe'(Win32): 'C:\Windows\SysWOW64\ws2_32.dll'을(를) 로드했습니다. PDB 파일을 찾거나 열 수 없습니다.
+'ChatClient.exe'(Win32): 'C:\Windows\SysWOW64\imm32.dll'을(를) 로드했습니다. PDB 파일을 찾거나 열 수 없습니다.
+'ChatClient.exe'(Win32): 'C:\Windows\WinSxS\x86_microsoft.windows.gdiplus_6595b64144ccf1df_1.1.19041.2251_none_d9513b1fe1046fc7\GdiPlus.dll'을(를) 로드했습니다. PDB 파일을 찾거나 열 수 없습니다.
+'ChatClient.exe'(Win32): 'C:\Windows\SysWOW64\uxtheme.dll'을(를) 로드했습니다. PDB 파일을 찾거나 열 수 없습니다.
+'ChatClient.exe'(Win32): 'C:\Windows\SysWOW64\bcryptprimitives.dll'을(를) 로드했습니다. PDB 파일을 찾거나 열 수 없습니다.
+'ChatClient.exe'(Win32): 'C:\Windows\SysWOW64\shell32.dll'을(를) 로드했습니다. PDB 파일을 찾거나 열 수 없습니다.
+'ChatClient.exe'(Win32): 'C:\Windows\SysWOW64\msctf.dll'을(를) 로드했습니다. PDB 파일을 찾거나 열 수 없습니다.
+'ChatClient.exe'(Win32): 'C:\Windows\SysWOW64\mswsock.dll'을(를) 로드했습니다. PDB 파일을 찾거나 열 수 없습니다.
+'ChatClient.exe'(Win32): 'C:\Windows\SysWOW64\kernel.appcore.dll'을(를) 로드했습니다. PDB 파일을 찾거나 열 수 없습니다.
+'ChatClient.exe'(Win32): 'C:\Windows\SysWOW64\TextInputFramework.dll'을(를) 로드했습니다. PDB 파일을 찾거나 열 수 없습니다.
+'ChatClient.exe'(Win32): 'C:\Windows\SysWOW64\CoreUIComponents.dll'을(를) 로드했습니다. PDB 파일을 찾거나 열 수 없습니다.
+'ChatClient.exe'(Win32): 'C:\Windows\SysWOW64\CoreMessaging.dll'을(를) 로드했습니다. PDB 파일을 찾거나 열 수 없습니다.
+'ChatClient.exe'(Win32): 'C:\Windows\SysWOW64\ntmarta.dll'을(를) 로드했습니다. PDB 파일을 찾거나 열 수 없습니다.
+'ChatClient.exe'(Win32): 'C:\Windows\SysWOW64\SHCore.dll'을(를) 로드했습니다. PDB 파일을 찾거나 열 수 없습니다.
+'ChatClient.exe'(Win32): 'C:\Windows\SysWOW64\WinTypes.dll'을(를) 로드했습니다. PDB 파일을 찾거나 열 수 없습니다.
+'ChatClient.exe'(Win32): 'C:\Windows\SysWOW64\TextShaping.dll'을(를) 로드했습니다. PDB 파일을 찾거나 열 수 없습니다.
+'ChatClient.exe'(Win32): 'C:\Windows\SysWOW64\clbcatq.dll'을(를) 로드했습니다. PDB 파일을 찾거나 열 수 없습니다.
+'ChatClient.exe'(Win32): 'C:\Windows\SysWOW64\IME\IMEKR\imkrtip.dll'을(를) 로드했습니다. PDB 파일을 찾거나 열 수 없습니다.
+'ChatClient.exe'(Win32): 'C:\Windows\SysWOW64\propsys.dll'을(를) 로드했습니다. PDB 파일을 찾거나 열 수 없습니다.
+'ChatClient.exe'(Win32): 'C:\Windows\SysWOW64\IME\SHARED\IMETIP.DLL'을(를) 로드했습니다. PDB 파일을 찾거나 열 수 없습니다.
+'ChatClient.exe'(Win32): 'C:\Windows\SysWOW64\oleacc.dll'을(를) 로드했습니다. PDB 파일을 찾거나 열 수 없습니다.
+'ChatClient.exe'(Win32): 'C:\Windows\SysWOW64\version.dll'을(를) 로드했습니다. PDB 파일을 찾거나 열 수 없습니다.
+'ChatClient.exe'(Win32): 'C:\Windows\SysWOW64\dui70.dll'을(를) 로드했습니다. PDB 파일을 찾거나 열 수 없습니다.
+'ChatClient.exe'(Win32): 'C:\Windows\SysWOW64\IME\IMEKR\imkrapi.dll'을(를) 로드했습니다. PDB 파일을 찾거나 열 수 없습니다.
+'ChatClient.exe'(Win32): 'C:\Windows\SysWOW64\policymanager.dll'을(를) 로드했습니다. PDB 파일을 찾거나 열 수 없습니다.
+'ChatClient.exe'(Win32): 'C:\Windows\SysWOW64\msvcp110_win.dll'을(를) 로드했습니다. PDB 파일을 찾거나 열 수 없습니다.
+'ChatClient.exe'(Win32): 'C:\Windows\SysWOW64\IME\SHARED\IMJKAPI.DLL'을(를) 로드했습니다. PDB 파일을 찾거나 열 수 없습니다.
+0xe9c 스레드가 종료되었습니다(코드: 0 (0x0)).
+0x2f24 스레드가 종료되었습니다(코드: 0 (0x0)).
+0x21c8 스레드가 종료되었습니다(코드: 0 (0x0)).
+'ChatClient.exe'(Win32): 'C:\Windows\SysWOW64\IME\IMEKR\imkrtip.dll'을(를) 언로드했습니다.
+'ChatClient.exe'(Win32): 'C:\Windows\SysWOW64\oleacc.dll'을(를) 언로드했습니다.
+'ChatClient.exe'(Win32): 'C:\Windows\SysWOW64\dui70.dll'을(를) 언로드했습니다.
+'ChatClient.exe'(Win32): 'C:\Windows\SysWOW64\IME\SHARED\IMETIP.DLL'을(를) 언로드했습니다.
+c:\users\sxhxx\onedrive\¹UAA E­¸e\chatclient\chatclient\chatclient.cpp(94) : atlTraceUtil - 경고: 대화 상자를 만들지 못했으므로 응용 프로그램이 예기치 않게 종료됩니다.
+c:\users\sxhxx\onedrive\¹UAA E­¸e\chatclient\chatclient\chatclient.cpp(95) : atlTraceUtil - 경고: 대화 상자에서 MFC 컨트롤을 사용하는 경우 #define _AFX_NO_MFC_CONTROLS_IN_DIALOGS를 수행할 수 없습니다.
+0x288 스레드가 종료되었습니다(코드: 0 (0x0)).
+0x232c 스레드가 종료되었습니다(코드: 0 (0x0)).
+0x1a28 스레드가 종료되었습니다(코드: 0 (0x0)).
+0x840 스레드가 종료되었습니다(코드: 0 (0x0)).
+0x27ec 스레드가 종료되었습니다(코드: 0 (0x0)).
+'[2352] ChatClient.exe' 프로그램이 종료되었습니다(코드: 0 (0x0)).
